@@ -1,6 +1,6 @@
 # progress_steps
 
-## #####Those weeks, I'm going thru some projects of little projects to improve my logic and javascript
+### Those weeks, I'm going thru some projects of little projects to improve my logic and javascript
 
 ###
 
@@ -9,14 +9,14 @@
 <div> 
     <img alt="Image from project working" src="https://i.imgur.com/UqdUorH.png">
 </div>
-##
+
 
 - We click on button next, it changes de circle and line color.
 
 <div> 
     <img alt="Image from project working" src="https://i.imgur.com/m2bzJdd.png">
 </div>
-######
+
 As you see, the button "Previous" that was disabled, now is able
 
 ##
