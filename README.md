@@ -1,4 +1,4 @@
-# progress_steps
+# Progress steps
 
 ### Those weeks, I'm going thru some projects of little projects to improve my logic and javascript
 
